@@ -27,5 +27,5 @@ erl_crash.dump
 *.iml
 /.idea
 
-### Ignore mix lock files ###
+# Ignore mix lock files
 *.lock
